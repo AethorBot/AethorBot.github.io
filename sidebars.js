@@ -32,7 +32,7 @@ module.exports = {
         {
           type: "link",
           label: "Invite Aethor to your server",
-          href: "https://discord.com/oauth2/authorize?client_id=749020331187896410&permissions=117824&scope=bot%20applications.commands",
+          href: "https://discord.com/oauth2/authorize?client_id=870383692403593226&permissions=117824&scope=bot%20applications.commands",
         },
         {
           type: "link",

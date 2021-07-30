@@ -29,7 +29,7 @@ module.exports = {
           position: "right",
         },
         {
-          href: "https://discord.com/oauth2/authorize?client_id=749020331187896410&permissions=117824&scope=bot%20applications.commands",
+          href: "https://discord.com/oauth2/authorize?client_id=870383692403593226&permissions=117824&scope=bot%20applications.commands",
           label: "Invite",
           position: "right",
         },
@@ -61,11 +61,11 @@ module.exports = {
             },
             {
               label: "Top.gg",
-              href: "https://top.gg/bot/749020331187896410",
+              href: "https://top.gg/bot/870383692403593226",
             },
             {
               label: "Bots.gg",
-              href: "https://discord.bots.gg/bots/749020331187896410",
+              href: "https://discord.bots.gg/bots/870383692403593226",
             },
           ],
         },

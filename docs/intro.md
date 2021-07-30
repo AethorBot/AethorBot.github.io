@@ -8,7 +8,7 @@ Aethor also responds to edits so if you edit your message Aethor still runs the 
 
 To get started invite Aethor and use *help to view the commands, *help commandName to view info about that command
 
-[Invite Aethor here](https://discord.com/oauth2/authorize?client_id=749020331187896410&scope=bot&permissions=117824)
+[Invite Aethor here](https://discord.com/oauth2/authorize?client_id=870383692403593226&scope=bot&permissions=117824)
 
 <!-- <blockquote>
   <h3 id="github-command-preview">Github command preview:</h3>
