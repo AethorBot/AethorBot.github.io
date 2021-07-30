@@ -1,2 +1,2 @@
-GITHUB_USER=SkyBlockDev
+export GIT_USER=SkyBlockDev
 yarn deploy

@@ -1,1 +1,6 @@
-[{"name":"configs","description":""},{"name":"prefix","description":"prefix of Malil?"},{"name":"threadsupport","description":"Thread based support very epic"}]
+[
+  { "name": "threadsupport", "description": "Thread based support very epic" },
+  { "name": "prefix", "description": "prefix of Aethor?" },
+  { "name": "supportping", "description": "Set a role to be pinged on every support thread" },
+  { "name": "configs", "description": "view the configs of Aethor" }
+]

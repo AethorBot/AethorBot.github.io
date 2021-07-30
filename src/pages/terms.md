@@ -1,6 +1,6 @@
-### Using malil to say racist or mean things is not allowed
+### Using Aethor to say racist or mean things is not allowed
 
-Meaning saying anything racist/homophobic get you banned from using malil
+Meaning saying anything racist/homophobic get you banned from using Aethor
 
 ### Dont spam commands
 

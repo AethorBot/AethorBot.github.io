@@ -31,7 +31,7 @@ module.exports = {
       items: [
         {
           type: "link",
-          label: "Invite Malil to your server",
+          label: "Invite Aethor to your server",
           href: "https://discord.com/oauth2/authorize?client_id=749020331187896410&permissions=117824&scope=bot%20applications.commands",
         },
         {
