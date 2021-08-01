@@ -4,21 +4,24 @@
   {
     "name": "avatar",
     "description": "view the avatar of a user",
-    "image": "https://raw.githubusercontent.com/Aethorbot/backend/main/images/AVATAR.png"
+    "image": "https://raw.githubusercontent.com/malilbot/backend/main/images/AVATAR.png"
   },
   {
     "name": "invite",
-    "description": "Invite Aethor to your server",
-    "image": "https://raw.githubusercontent.com/Aethorbot/backend/main/images/INVITE.png"
+    "description": "Invite Malil to your server",
+    "image": "https://raw.githubusercontent.com/malilbot/backend/main/images/INVITE.png"
   },
   {
     "name": "support",
     "description": "Support server :)",
-    "image": "https://raw.githubusercontent.com/Aethorbot/backend/main/images/SUPPORT.png"
+    "image": "https://raw.githubusercontent.com/malilbot/backend/main/images/SUPPORT.png"
   },
   {
     "name": "help",
-    "description": "Aethor help command",
-    "image": "https://raw.githubusercontent.com/Aethorbot/backend/main/images/HELP.png"
-  }
+    "description": "malil help command",
+    "image": "https://raw.githubusercontent.com/malilbot/backend/main/images/HELP.png"
+  },
+  { "name": "github set", "description": "Set the channel" },
+  { "name": "github reset", "description": "reset the settings for the github command" },
+  { "name": "github add", "description": "add a repo to be watched" }
 ]

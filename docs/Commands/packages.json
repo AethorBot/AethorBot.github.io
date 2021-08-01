@@ -1,1 +1,14 @@
-[{"name":"deno","description":"Search for a deno package"},{"name":"maven","description":"Search for maven packages to use in your projects"},{"name":"natico","description":"Natico docs"},{"name":"pip","description":"Search for a pip package"},{"name":"npm","description":"Search for a npm package"},{"name":"golang","description":"Search for a golang module"},{"name":"dart","description":"Search for a 🐦 flutter package"},{"name":"ddoc","description":"Searches the discord deno docs"},{"name":"aur","description":"Find aur packages for you"},{"name":"apt","description":"Searches the apt repositorys for apt packages"},{"name":"hackage","description":"Search for haskell packages to use in your projects"},{"name":"crate","description":"Search for a crate package"}]
+[
+  { "name": "deno", "description": "Search for a deno package" },
+  { "name": "maven", "description": "Search for maven packages to use in your projects" },
+  { "name": "natico", "description": "Natico docs" },
+  { "name": "pip", "description": "Search for a pip package" },
+  { "name": "npm", "description": "Search for a npm package" },
+  { "name": "golang", "description": "Search for a golang module" },
+  { "name": "dart", "description": "Search for a 🐦 flutter package" },
+  { "name": "ddoc", "description": "Searches the discord deno docs" },
+  { "name": "aur", "description": "Find aur packages for you" },
+  { "name": "apt", "description": "Searches the apt repositorys for apt packages" },
+  { "name": "hackage", "description": "Search for haskell packages to use in your projects" },
+  { "name": "crate", "description": "Search for a crate package" }
+]
