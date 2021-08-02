@@ -2,7 +2,7 @@
 module.exports = {
   title: "Aethor",
   tagline: "Aethor the all in one discord bot",
-  url: "https://aethor.netlify.app/",
+  url: "https://aethor.floppa.info/",
   baseUrl: "/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
