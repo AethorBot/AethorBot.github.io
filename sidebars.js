@@ -37,7 +37,7 @@ module.exports = {
         {
           type: "link",
           label: "join the support server",
-          href: "https://discord.gg/mY8zTARu4g",
+          href: "https://discord.gg/zwUQGAG4cP",
         },
       ],
     },

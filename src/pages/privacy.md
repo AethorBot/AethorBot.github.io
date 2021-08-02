@@ -7,23 +7,23 @@ What data do we store and why?
 
 ### User specific data:
 
-User and guild ids
+We store discord server, user and channel id's when people use commands that require a database ( suggestions, tags, github, iq etc ).
 
 ### How do we use your data?
 
 We use this data to:
-to keep track of suggestions, tags, prefix, iqpoints, moderation actions and temp roles this data is needed for some commands to work (properly)
+to keep track of suggestions, tags, prefix, iqpoints, moderation actions and temp roles this data is needed for some commands to work (properly).
 
 ### How do we store your data?
 
-We store the data on a raspberry pi in the netherlands
+We store the data on a raspberry pi in the netherlands.
 
 ---
 
 ### Can I delete my data?
 
 In short: Yes!  
-However, we want to point out that your data is crucial for the bot to operate correctly. If you, for what ever reason, decide that you want your **data deleted** all your stats will be gone.
+However, we want to point out that your data is crucial for the bot to operate correctly. If you, for what ever reason, decide that you want your **data deleted** all your suggestions settings and more will be deleted.
 
 ### That said; If you want that we erase your data you have the following options:
 
